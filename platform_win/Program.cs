@@ -16,7 +16,7 @@ namespace platform_win
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new login());
+            Application.Run(new MainPage());
         }
     }
 }

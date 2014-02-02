@@ -10,3 +10,4 @@ d:\documents\visual studio 2012\Projects\platform_win\platform_win\bin\Debug\New
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\bin\Debug\Newtonsoft.Json.xml
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.login.resources
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.MainPage.resources
+d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.Notice.resources
