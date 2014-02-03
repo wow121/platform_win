@@ -25,7 +25,7 @@ namespace platform_win
         {
             string name = login_username.Text;
             string pw = login_password.Text;
-            string url = "http://203.156.196.150/android/login?number="+name+"&password="+pw;
+            string url = "http://203.156.196.150/web/login?name="+name+"&password="+pw;
             HttpWebResponse response;
             response=HttpWebResponseUtility.CreateGetHttpResponse(url, null, null, null);
             StreamReader sr = new StreamReader(response.GetResponseStream());
