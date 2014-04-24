@@ -1,7 +1,6 @@
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\bin\Debug\platform_win.exe.config
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\bin\Debug\platform_win.exe
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\bin\Debug\platform_win.pdb
-d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.Properties.Resources.resources
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.csproj.GenerateResource.Cache
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.exe
@@ -11,3 +10,4 @@ d:\documents\visual studio 2012\Projects\platform_win\platform_win\bin\Debug\New
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.login.resources
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.MainPage.resources
 d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.Notice.resources
+d:\documents\visual studio 2012\Projects\platform_win\platform_win\obj\Debug\platform_win.csprojResolveAssemblyReference.cache
